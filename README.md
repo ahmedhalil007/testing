@@ -5,7 +5,7 @@ Testing for smoke and regression on a selected website was the objective.
 The Mocca Commerce site
 https://moccacommerce.com/
 
-Project is based on using Selenium and Java in Visual Studio Code
+Project is based on using Selenium and Java 
 
 # Set up
 
