@@ -1,9 +1,7 @@
 # Testing_lab
 
 # Goal:
-Testing for smoke and regression on a selected website was the objective. 
-The Mocca Commerce site
-https://moccacommerce.com/
+Testing for smoke and regression on the Mocca Commerce site ```https://moccacommerce.com/``` 
 
 Project is based on using Selenium and Java 
 
