@@ -1,4 +1,4 @@
-# Testing_lab
+# Automated Testing
 
 # Goal:
 Testing for smoke and regression on a selected website was the objective.
