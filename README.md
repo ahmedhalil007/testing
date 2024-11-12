@@ -1,7 +1,12 @@
 # Testing_lab
 
 # Goal:
+Testing for smoke and regression on a selected website was the objective.
+The Mocca Commerce site
+https://moccacommerce.com/
 
+Project is based on using Selenium and Java in Visual Studio Code.<br>
+All test cases are available in `test_cases.pdf` within the repository. <br>
 
 # Set up
 
